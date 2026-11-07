@@ -1,4 +1,5 @@
-Hey there! 👋 I'm Lakin Awel
+Hey there! 👋 
+I'm Lakin Awel.
 Software Engineering Student | Aspiring Software Developer
 
 Welcome to my GitHub corner!
@@ -20,17 +21,6 @@ About Me
 🚀 Building projects and learning through practice
 
 🎯 My goal: Create technology that makes a meaningful difference
-
-Technologies & Tools
-
-Currently learning and working with:
-
-
-
-
-
-
-
 
 
 What I'm Building
